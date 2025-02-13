@@ -1,18 +1,18 @@
 # CyberVault  
 
-CyberVault er en hjemmelaget passordadministrator utviklet som et skoleprosjekt av **cyberHansen** og **cybernilsen**. Dette er vårt første prosjekt i **C#** og **C++**, og vi lærer underveis!  
+CyberVault is a homemade password manager developed as a school project by [**CyberHansen**](https://github.com/cyberHansen) and [**CyberNilsen**](https://github.com/CyberNilsen). This is our first project in **C#** and **C++**, and we're learning as we go!  
 
-## Funksjoner (planlagt)  
-🔐 Sikker lagring av passord  
-🔑 Generering av sterke passord  
-🛡️ Enkel kryptering for ekstra sikkerhet  
+## Features (Planned)  
+🔐 Secure password storage  
+🔑 Strong password generation  
+🛡️ Basic encryption for extra security  
 
 ## Status  
-🚧 **Under utvikling** – vi bygger og lærer samtidig!  
+🚧 **In development** – we're building and learning at the same time!  
 
-## Bidragsytere  
-👨‍💻 cyberHansen  
-👨‍💻 cybernilsen  
+## Contributors  
+👨‍💻 [CyberHansen](https://github.com/cyberHansen)  
+👨‍💻 [CyberNilsen](https://github.com/CyberNilsen)  
 
-## Lisens  
-📜 Dette prosjektet er for læring og ikke ment for produksjonsbruk.  
+## License  
+📜 This project is for learning purposes and not intended for production use.  
